@@ -2,6 +2,8 @@
 
 ![Wavelet Transform Modulus Maxima](./wavelet.png)
 
+*Figure 1: Wavelet Transform Modulus Maxima (WTMM) applied to a sample signal. The figure shows the original signal, its wavelet transform, and the corresponding modulus maxima ("skeleton") which highlights the singularities in the signal.*
+
 ## Introduction
 
 The Wavelet Transform Modulus Maxima (WTMM) method is a powerful tool in signal processing and fractal analysis. It allows for the detection of singularities in signals—points where the signal behaves unusually, such as sharp transitions or changes in frequency. These singularities often correspond to critical features in the data, making WTMM particularly useful in various fields, including physics, biology, and finance.
